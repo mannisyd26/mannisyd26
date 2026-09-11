@@ -12,15 +12,17 @@ My interests span across deep learning, agentic systems, and building end-to-end
 - Backend & data: SQL, Redis, FastAPI, Docker
 - Frontend: React, TypeScript, JavaScript
 
-📚 Currently learning robotics from the bottom up — working through RL fundamentals and small hands-on exercises (a CIFAR-10 classifier was the first one) on the way to real sim-to-real work.
+📚 Currently learning the learning behind robotics from the bottom up!
 
 ## What I'm building
 
 - **[Rooh](https://letsrooh.com)** ([repo](https://github.com/mannisyd26/rooh)) — We need to get better at communicating. Here's a step forward in that direction.
-  `Next.js` · `Supabase` · `Google Cloud (Speech-to-Text, Text-to-Speech)` · `Gemini` · `Deepgram` · real-time computer vision for eye contact/delivery feedback
+  `Next.js (React)` · `Typescript` · MediaPipe` ·`Supabase` · `Google Cloud (Speech-to-Text, Text-to-Speech)` · `Deepgram` · 
 - **Cove** — up and coming, but spoiler alert, it's about books
-  `React Native` · `Expo` (iOS + Android + web)
+  `React Native` · `Expo` (iOS + Android + web) · `TypeScript` 
 - **[Composable Robot Skills](https://github.com/mannisyd26/From-One-Big-Policy-to-Composable-Robot-Skills)** — My baby robotics project, with many more to come
-  `Python` · `PyTorch` · `MuJoCo` · reinforcement learning
+  `Python` · `PyTorch` · `MuJoCo` · `robosuite` · `Metaworld` · `Gymnasium` ·
 
-Find me on [LinkedIn](https://www.linkedin.com/in/manahil-syeda/)
+------
+
+Find me on [LinkedIn](https://www.linkedin.com/in/manahil-syeda/)!
