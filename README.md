@@ -7,18 +7,20 @@ My interests span across deep learning, agentic systems, and building end-to-end
 - Python (my day-to-day language, from ML research to backend services)
 - Deep learning & ML infra: PyTorch, TensorFlow, CUDA, TensorRT, OpenCV, MuJoCo
 - Agentic AI & LLMs: LangChain, agent frameworks, MCP servers
+- Cloud & data platforms: ETL pipeline automation, Apache Spark, Apache Airflow, Hive, Kubernetes
 - Systems: C, C++, Rust, LLVM, Verilog
-- Data & backend: SQL, Apache Spark, Apache Airflow, Hive, Redis, FastAPI, Docker, Kubernetes
+- Backend & data: SQL, Redis, FastAPI, Docker
 - Frontend: React, TypeScript, JavaScript
-
-👔 I've previously worked as a Software & Data Engineer at Visa (currently building production AI/data platforms there), a Deep Learning Performance Software Engineer Intern at NVIDIA, and a Research Engineer at Berkeley Sky Labs on a DARPA-funded C-to-Rust code transpilation project.
 
 📚 Currently learning robotics from the bottom up — working through RL fundamentals and small hands-on exercises (a CIFAR-10 classifier was the first one) on the way to real sim-to-real work.
 
 ## What I'm building
 
 - **[Rooh](https://letsrooh.com)** ([repo](https://github.com/mannisyd26/rooh)) — We need to get better at communicating. Here's a step forward in that direction.
+  `Next.js` · `Supabase` · `Google Cloud (Speech-to-Text, Text-to-Speech)` · `Gemini` · `Deepgram` · real-time computer vision for eye contact/delivery feedback
 - **Cove** — up and coming, but spoiler alert, it's about books
+  `React Native` · `Expo` (iOS + Android + web)
 - **[Composable Robot Skills](https://github.com/mannisyd26/From-One-Big-Policy-to-Composable-Robot-Skills)** — My baby robotics project, with many more to come
+  `Python` · `PyTorch` · `MuJoCo` · reinforcement learning
 
 Find me on [LinkedIn](https://www.linkedin.com/in/manahil-syeda/)
