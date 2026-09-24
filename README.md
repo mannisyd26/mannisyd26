@@ -18,10 +18,12 @@ My interests span across deep learning, agentic systems, and building end-to-end
 
 - **[Rooh](https://letsrooh.com)** ([repo](https://github.com/mannisyd26/rooh)) — We need to get better at communicating. Here's a step forward in that direction.
   `Next.js (React)` · `TypeScript` · `MediaPipe` · `Supabase` · `Google Cloud (Speech-to-Text, Text-to-Speech)` · `Deepgram`
-- **Cove** — up and coming, but spoiler alert, it's about books
+- **[Cove](https://github.com/mannisyd26/cove)** — up and coming, but spoiler alert, it's about books
   `React Native` · `Expo` (iOS + Android + web) · `TypeScript`
 - **[Composable Robot Skills](https://github.com/mannisyd26/From-One-Big-Policy-to-Composable-Robot-Skills)** — My baby robotics project, with many more to come
   `Python` · `PyTorch` · `MuJoCo` · `robosuite` · `Metaworld` · `Gymnasium`
+- **[research-radar](https://github.com/mannisyd26/research-radar)** — Agentic arXiv paper-discovery tool that tracks and surfaces research trends
+  `Node.js` · `Express` · `Gemini`
 
 ---
 
